@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/25/python-tesseract-0.5/debianPatches
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/25/python-tesseract-0.5/debianPatches/control
+END
+control.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/25/python-tesseract-0.5/debianPatches/control.in
+END
+rules4final
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/25/python-tesseract-0.5/debianPatches/rules4final
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/25/python-tesseract-0.5/debianPatches/copyright
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/25/python-tesseract-0.5/debianPatches/rules
+END
